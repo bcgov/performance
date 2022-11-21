@@ -25,6 +25,6 @@
     },
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
-        "admin-lte": "^3.1.0"
+        "admin-lte": "^3.2.0"
     }
 }
